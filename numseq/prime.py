@@ -17,4 +17,4 @@ def is_prime(n):
 
 if __name__ == "__main__":
     import sys
-    print(prime(int(sys.argv[1])))
+    print(primes(int(sys.argv[1])))

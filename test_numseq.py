@@ -1,6 +1,5 @@
 import sys
 import timeit
-sys.path.append('/Users/jakiepoo/Documents/KAQ3/backend-numseq-package-assessment')
 from numseq.fib import fib
 from numseq.geo import *
 from numseq.prime import *
